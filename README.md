@@ -2,7 +2,7 @@
 
 -  My Hobbies are Physical Training, Read Books, and Coding 🇮🇩
 -  My school at VOCATIONAL HIGH SCHOOL WARGA SURAKARTA
--  My age is 15yo
+-  My age is 16yo
 
 ## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
 
