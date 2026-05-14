@@ -17,15 +17,14 @@
 
 ##  Tech Stack:
 ![](https://skillicons.dev/icons?i=nextjs,react,vite)
----
 ![](https://skillicons.dev/icons?i=js,ts,nodejs,express)
----
 ![](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
----
 ![](https://skillicons.dev/icons?i=docker,git,github,npm,yarn)
 
 ## Github Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zevanoo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zevanoo&theme=react&utcOffset=7)
-![](https://github-readme-stats.shion.dev/api?username=zevanoo&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=zevanoo&theme=react&hide_border=false)<br/>
+<div align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=zevanoo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zevanoo&theme=react&utcOffset=7" />
+<img src="https://github-readme-stats.shion.dev/api?username=zevanoo&theme=react&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://streak-stats.demolab.com/?user=zevanoo&theme=react&hide_border=false" />
+</div>
